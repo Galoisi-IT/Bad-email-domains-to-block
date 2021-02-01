@@ -76,6 +76,7 @@ disposemail.com
 dispostable.com
 dm.w3internet.co.ukexample.com
 dodgeit.com
+discard.email
 dodgit.com
 dodgit.org
 donemail.ru
@@ -406,6 +407,7 @@ temporarioemail.com.br
 temporaryemail.net
 temporaryforwarding.com
 temporaryinbox.com
+tempr.email
 thanksnospam.info
 thankyou2010.com
 thisisnotmyrealemail.com
